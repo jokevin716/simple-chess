@@ -1,4 +1,4 @@
-// chess-game.js
+// chess.js
 const readline = require('readline');
 
 // Set up readline interface

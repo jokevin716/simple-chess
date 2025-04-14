@@ -36,7 +36,7 @@ npm start
 or
 
 ```bash
-node chess-game.js
+node chess.js
 ```
 
 ## How to Play

@@ -1,4 +1,4 @@
-// tests/chess-game.test.js
+// tests/chess.test.js
 const ChessGame = require('../chess');
 
 describe('Chess Game Tests', () => {
